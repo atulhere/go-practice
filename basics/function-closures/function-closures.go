@@ -11,7 +11,7 @@ func makeCounter() func() int {
 
 		count++
 
-		return count
+		return
 	}
 
 }
